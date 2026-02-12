@@ -1,11 +1,4 @@
 .ruff_cache/
 _hidden/
 *.pyc
-3m-classroom
-3m_v3_*
-v3/
-repomix*
-es56_sol*
-es57_sol*
-es58_sol*
-es59_sol*
+**/*student.py

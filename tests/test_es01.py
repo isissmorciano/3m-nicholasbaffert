@@ -1,4 +1,4 @@
-from src.l01_input_output.es01_student import main
+from src.m01_input_output.es01_student import main
 
 def test_adulto(monkeypatch, capsys):
     inputs = iter(['Mario', '25'])
