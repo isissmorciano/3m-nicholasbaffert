@@ -1,4 +1,4 @@
-from src.l01_input_output.es02_student import main
+from src.m01_input_output.es02_student import main
 
 def test_eta_calcolo(monkeypatch, capsys):
     inputs = iter(['Anna', '1990'])
