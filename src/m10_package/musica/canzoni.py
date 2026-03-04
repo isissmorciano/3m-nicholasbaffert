@@ -1,29 +1,27 @@
 """Modulo per la gestione delle canzoni."""
 
+Canzone = dict[str, str | int]
 
-def crea_canzone(titolo: str, artista: str, durata: int) -> dict:
+
+def crea_canzone(titolo: str, artista: str, durata: int) -> Canzone:
     """
     Crea una canzone rappresentata come dizionario.
-    
+
     Args:
         titolo: Il titolo della canzone
         artista: Il nome dell'artista
         durata: La durata in secondi
-        
+
     Returns:
         Un dizionario con chiavi: titolo, artista, durata
     """
-    return {
-        "titolo": titolo,
-        "artista": artista,
-        "durata": durata
-    }
+    return {"titolo": titolo, "artista": artista, "durata": durata}
 
 
-def info_canzone(canzone: dict) -> str:
+def info_canzone(canzone: Canzone) -> str:
     """
     Restituisce una stringa formattata della canzone.
-    
+
     Formato: "Titolo - Artista (M:SS)"
     Esempio: "Bohemian Rhapsody - Queen (5:55)"
     """
