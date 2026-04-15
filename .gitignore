@@ -1,3 +1,4 @@
+.venv/
 temp/
 .ruff_cache/
 _hidden/
@@ -5,3 +6,5 @@ _hidden/
 **/v5/*
 **/diario/
 **/es66_reference.py
+**/es67_reference.py
+**/es68_reference.py
