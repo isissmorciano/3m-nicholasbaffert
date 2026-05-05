@@ -1,0 +1,30 @@
+{
+  "mesi": [
+    "Gennaio",
+    "Febbraio",
+    "Marzo",
+    "Aprile",
+    "Maggio",
+    "Giugno",
+    "Luglio",
+    "Agosto",
+    "Settembre",
+    "Ottobre",
+    "Novembre",
+    "Dicembre"
+  ],
+  "prodotti": [
+    {
+      "nome": "Cuffie",
+      "vendite": [45, 52, 48, 60, 55, 70, 85, 92, 78, 88, 95, 110]
+    },
+    {
+      "nome": "Tastiera",
+      "vendite": [30, 35, 38, 42, 48, 55, 62, 58, 65, 72, 80, 88]
+    },
+    {
+      "nome": "Mouse",
+      "vendite": [25, 28, 32, 40, 38, 45, 50, 48, 55, 62, 68, 75]
+    }
+  ]
+}

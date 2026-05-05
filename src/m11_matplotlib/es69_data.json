@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Centro",
+    "clienti": 220,
+    "incasso": 820,
+    "superficie": 120,
+    "profitto": 19
+  },
+  {
+    "nome": "Stazione",
+    "clienti": 150,
+    "incasso": 540,
+    "superficie": 70,
+    "profitto": 10
+  },
+  {
+    "nome": "Quartiere",
+    "clienti": 90,
+    "incasso": 560,
+    "superficie": 100,
+    "profitto": 22
+  },
+  {
+    "nome": "Outlet",
+    "clienti": 60,
+    "incasso": 320,
+    "superficie": 150,
+    "profitto": 8
+  },
+  {
+    "nome": "Shopping",
+    "clienti": 180,
+    "incasso": 680,
+    "superficie": 90,
+    "profitto": 14
+  }
+]
